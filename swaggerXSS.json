@@ -1,8 +1,8 @@
 {
-    "url": "https://gist.githubusercontent.com/Ti0SeC/6c7e3fe18096f420941d5469150b41da/raw/a49e82ff566f8fdb81e985b24c8cb9799f34843e/swaggerXSS.yaml",
+    "url": "https://gist.githubusercontent.com/Ti0SeC/6c7e3fe18096f420941d5469150b41da/raw/ed2989f9d08c099aac9f881f0c775adb36063cb2/swaggerXSS.yaml",
     "urls": [
         {
-            "url": "https://gist.githubusercontent.com/Ti0SeC/6c7e3fe18096f420941d5469150b41da/raw/a49e82ff566f8fdb81e985b24c8cb9799f34843e/swaggerXSS.yaml",
+            "url": "https://gist.githubusercontent.com/Ti0SeC/6c7e3fe18096f420941d5469150b41da/raw/ed2989f9d08c099aac9f881f0c775adb36063cb2/swaggerXSS.yaml",
             "name": "Foo"
         }
     ]
